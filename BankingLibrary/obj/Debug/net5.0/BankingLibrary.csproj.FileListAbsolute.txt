@@ -1,0 +1,12 @@
+C:\Users\nandh\source\repos\JenkinsContinuousIntegrationDemo\BankingLibrary\bin\Debug\net5.0\BankingLibrary.deps.json
+C:\Users\nandh\source\repos\JenkinsContinuousIntegrationDemo\BankingLibrary\bin\Debug\net5.0\BankingLibrary.dll
+C:\Users\nandh\source\repos\JenkinsContinuousIntegrationDemo\BankingLibrary\bin\Debug\net5.0\ref\BankingLibrary.dll
+C:\Users\nandh\source\repos\JenkinsContinuousIntegrationDemo\BankingLibrary\bin\Debug\net5.0\BankingLibrary.pdb
+C:\Users\nandh\source\repos\JenkinsContinuousIntegrationDemo\BankingLibrary\obj\Debug\net5.0\BankingLibrary.csproj.AssemblyReference.cache
+C:\Users\nandh\source\repos\JenkinsContinuousIntegrationDemo\BankingLibrary\obj\Debug\net5.0\BankingLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nandh\source\repos\JenkinsContinuousIntegrationDemo\BankingLibrary\obj\Debug\net5.0\BankingLibrary.AssemblyInfoInputs.cache
+C:\Users\nandh\source\repos\JenkinsContinuousIntegrationDemo\BankingLibrary\obj\Debug\net5.0\BankingLibrary.AssemblyInfo.cs
+C:\Users\nandh\source\repos\JenkinsContinuousIntegrationDemo\BankingLibrary\obj\Debug\net5.0\BankingLibrary.csproj.CoreCompileInputs.cache
+C:\Users\nandh\source\repos\JenkinsContinuousIntegrationDemo\BankingLibrary\obj\Debug\net5.0\BankingLibrary.dll
+C:\Users\nandh\source\repos\JenkinsContinuousIntegrationDemo\BankingLibrary\obj\Debug\net5.0\ref\BankingLibrary.dll
+C:\Users\nandh\source\repos\JenkinsContinuousIntegrationDemo\BankingLibrary\obj\Debug\net5.0\BankingLibrary.pdb
